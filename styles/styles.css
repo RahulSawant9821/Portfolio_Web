@@ -1,0 +1,27 @@
+.rounded-circle-custom {
+    border-radius: 50%;
+    object-fit: cover;
+    width: 100%;
+    max-width: 500px; /* Adjust as needed */
+    height: auto;
+}
+
+.text-center {
+    text-align: center;
+    max-width: 600px; /* Adjust as needed */
+    margin: auto; /* Center align text horizontally */
+    padding: 0 20px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo-img {
+    height: 40px; /* Adjust height as needed */
+    width: auto; /* Maintain aspect ratio */
+}
